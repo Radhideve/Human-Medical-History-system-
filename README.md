@@ -1,1 +1,1 @@
-# Human-Medical-History-system-
+# Aayur rekha - the human medical history system
